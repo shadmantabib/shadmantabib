@@ -18,8 +18,6 @@ Skills: C/C++/Java/Javascript/django
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/shadmantabib)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/shadmantabib)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/shadmantabib&show_icons=true&count_private=true)  
 
 
