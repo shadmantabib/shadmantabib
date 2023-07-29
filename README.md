@@ -1,4 +1,3 @@
-![Programmer,developer,researcher](https://media.licdn.com/dms/image/C4E03AQEFTqFs11xsAw/profile-displayphoto-shrink_400_400/0/1609526800318?e=1695859200&v=beta&t=19QKqB3GKfkzXGyMg8roE2acRa6ScnVQ2bz2sM9THs8)
 
 ### Hi there 👋, My name is H.M.Shadman Tabib
 #### Programmer,developer,researcher
@@ -23,10 +22,4 @@ Skills: C/C++/Java/Javascript/django
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/shadmantabib&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/shadmantabib)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/shadmantabib)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/shadmantabib)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/shadmantabib)  
