@@ -12,8 +12,7 @@ Skills: C/C++/Java/Javascript/django
 - 🌱 I’m currently learning javascript 
 - 📫 How to reach me: https://www.facebook.com/hmshadman.tabib/
 
-####CONNECT WITH ME
-
+#### CONNECT ME WITH
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/shadmantabib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hm-shadman-tabib-3229a41b0//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/hmshadman.tabib/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackexchange.com/users/29117291/shadmantabib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC-r6q8jA0bumJEZC9kSw4HA)  
 
 ## Languages
@@ -30,14 +29,12 @@ Skills: C/C++/Java/Javascript/django
 ## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)![EReact](https://img.shields.io/badge/-React-000000?style=flat&logo=react) <br />
-![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea) ![](https://img.shields.io/badge/-Webstorm-000000?style=flat&logo=webstorm)<br />
 ![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
 ![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
 ![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
-![Adobe Ai](https://img.shields.io/badge/-Adobe%20Illustrator-000000?style=flat&logo=adobe%20illustrator)
+
 
 
 
