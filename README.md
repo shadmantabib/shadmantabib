@@ -35,6 +35,14 @@ Skills: C/C++/Java/Javascript/django
 ![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
 ![Adobe PS](https://img.shields.io/badge/-Adobe%20Photoshop-000000?style=flat&logo=adobe%20photoshop)
 
+## Github Overview
+
+<img align="left" alt="Shadman Tabib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shadmantabib&show_icons=true" />   &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadmantabib&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+ <!-- ![Top topics](https://sue445-github-readme-stats.vercel.app/api/top-topics/?username=shadmantabib) -->
+<br />
+
 
 
 
