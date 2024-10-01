@@ -13,8 +13,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="600px">
+  <img src="https://github.com/shadmantabib/assets/raw/master/assets/me_always_sad_man.webp" alt="Starry Night Sad Boy" width="600px">
 </p>
+
 
 ---
 
