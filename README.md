@@ -1,4 +1,4 @@
-<h1 align="center">✨ H.M. Shadman Tabib ✨</h1>
+<h1 align="center"> H.M. Shadman Tabib </h1>
 <p align="center">
   <em>B.Sc Student in Computer Science & Engineering</em><br>
   <em>Bangladesh University of Engineering and Technology (BUET)</em>
