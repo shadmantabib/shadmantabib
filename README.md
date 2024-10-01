@@ -18,7 +18,7 @@
 
 ---
 
-## 🧑‍🔬 Research Experience
+## 🧑‍🔬 Research Interest
 
 ### Agent-Based Modeling
 - **Epidemiology Simulation**
@@ -27,6 +27,8 @@
 ### Brain Computer Interface
 
 ### Image Analysis & Unsupervised Learning in Segmentation and Object Detection
+
+## Protein Protein Interaction
 
 
 
