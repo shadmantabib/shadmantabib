@@ -28,7 +28,7 @@
 
 ### Image Analysis & Unsupervised Learning in Segmentation and Object Detection
 
-### Multi-Omics Deconvolution 
+
 
 
 ---
